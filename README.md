@@ -1,2 +1,2 @@
 # hello-world
-Refreshing on teh basics
+Refreshing on the basics
