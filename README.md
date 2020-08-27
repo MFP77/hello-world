@@ -1,2 +1,2 @@
 # hello-world
-Learning the basics again
+Refreshing on the basics
